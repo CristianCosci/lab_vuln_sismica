@@ -1,0 +1,216 @@
+Nome immagine: half_F1_IR000650.bmp Nome metodo: nearest
+Area della sogliatura: 50
+Componenti trovate senza sogliatura: 113
+Cluster ottenuti: 84
+Percentuale pixel bianchi immagine con cluster filtrati: 46.6784
+
+Nome immagine: half_F1_IR000650.bmp Nome metodo: bilinear
+Area della sogliatura: 50
+Componenti trovate senza sogliatura: 107
+Cluster ottenuti: 82
+Percentuale pixel bianchi immagine con cluster filtrati: 47.3164
+
+Nome immagine: half_F1_IR000650.bmp Nome metodo: bicubic
+Area della sogliatura: 50
+Componenti trovate senza sogliatura: 114
+Cluster ottenuti: 83
+Percentuale pixel bianchi immagine con cluster filtrati: 46.7917
+
+Nome immagine: half_F1_IR000650.bmp Nome metodo: lanczos2
+Area della sogliatura: 50
+Componenti trovate senza sogliatura: 116
+Cluster ottenuti: 83
+Percentuale pixel bianchi immagine con cluster filtrati: 46.694
+
+Nome immagine: half_F1_IR000650.bmp Nome metodo: lanczos3
+Area della sogliatura: 50
+Componenti trovate senza sogliatura: 121
+Cluster ottenuti: 89
+Percentuale pixel bianchi immagine con cluster filtrati: 46.5456
+
+Nome immagine: half_F1_IR000650.bmp_SK-w=20_r=2.bmp
+Area della sogliatura: 50
+Componenti trovate senza sogliatura: 91
+Cluster ottenuti: 67
+Percentuale pixel bianchi immagine con cluster filtrati: 43.276
+
+Nome immagine: half_F2_IR000654.bmp Nome metodo: nearest
+Area della sogliatura: 50
+Componenti trovate senza sogliatura: 128
+Cluster ottenuti: 83
+Percentuale pixel bianchi immagine con cluster filtrati: 47.5156
+
+Nome immagine: half_F2_IR000654.bmp Nome metodo: bilinear
+Area della sogliatura: 50
+Componenti trovate senza sogliatura: 120
+Cluster ottenuti: 84
+Percentuale pixel bianchi immagine con cluster filtrati: 48.0456
+
+Nome immagine: half_F2_IR000654.bmp Nome metodo: bicubic
+Area della sogliatura: 50
+Componenti trovate senza sogliatura: 131
+Cluster ottenuti: 80
+Percentuale pixel bianchi immagine con cluster filtrati: 47.4219
+
+Nome immagine: half_F2_IR000654.bmp Nome metodo: lanczos2
+Area della sogliatura: 50
+Componenti trovate senza sogliatura: 125
+Cluster ottenuti: 81
+Percentuale pixel bianchi immagine con cluster filtrati: 47.7878
+
+Nome immagine: half_F2_IR000654.bmp Nome metodo: lanczos3
+Area della sogliatura: 50
+Componenti trovate senza sogliatura: 137
+Cluster ottenuti: 83
+Percentuale pixel bianchi immagine con cluster filtrati: 47.2995
+
+Nome immagine: half_F2_IR000654.bmp_SK-w=20_r=2.bmp
+Area della sogliatura: 50
+Componenti trovate senza sogliatura: 120
+Cluster ottenuti: 69
+Percentuale pixel bianchi immagine con cluster filtrati: 43.7083
+
+Nome immagine: half_F3_IR000659.bmp Nome metodo: nearest
+Area della sogliatura: 50
+Componenti trovate senza sogliatura: 83
+Cluster ottenuti: 48
+Percentuale pixel bianchi immagine con cluster filtrati: 58.6042
+
+Nome immagine: half_F3_IR000659.bmp Nome metodo: bilinear
+Area della sogliatura: 50
+Componenti trovate senza sogliatura: 83
+Cluster ottenuti: 49
+Percentuale pixel bianchi immagine con cluster filtrati: 57.8359
+
+Nome immagine: half_F3_IR000659.bmp Nome metodo: bicubic
+Area della sogliatura: 50
+Componenti trovate senza sogliatura: 95
+Cluster ottenuti: 51
+Percentuale pixel bianchi immagine con cluster filtrati: 55.6484
+
+Nome immagine: half_F3_IR000659.bmp Nome metodo: lanczos2
+Area della sogliatura: 50
+Componenti trovate senza sogliatura: 102
+Cluster ottenuti: 58
+Percentuale pixel bianchi immagine con cluster filtrati: 50.9648
+
+Nome immagine: half_F3_IR000659.bmp Nome metodo: lanczos3
+Area della sogliatura: 50
+Componenti trovate senza sogliatura: 107
+Cluster ottenuti: 52
+Percentuale pixel bianchi immagine con cluster filtrati: 55.7982
+
+Nome immagine: half_F3_IR000659.bmp_SK-w=20_r=2.bmp
+Area della sogliatura: 50
+Componenti trovate senza sogliatura: 84
+Cluster ottenuti: 43
+Percentuale pixel bianchi immagine con cluster filtrati: 54.9154
+
+Nome immagine: half_F4_IR000661.bmp Nome metodo: nearest
+Area della sogliatura: 50
+Componenti trovate senza sogliatura: 103
+Cluster ottenuti: 65
+Percentuale pixel bianchi immagine con cluster filtrati: 48.2461
+
+Nome immagine: half_F4_IR000661.bmp Nome metodo: bilinear
+Area della sogliatura: 50
+Componenti trovate senza sogliatura: 103
+Cluster ottenuti: 73
+Percentuale pixel bianchi immagine con cluster filtrati: 48.6289
+
+Nome immagine: half_F4_IR000661.bmp Nome metodo: bicubic
+Area della sogliatura: 50
+Componenti trovate senza sogliatura: 111
+Cluster ottenuti: 76
+Percentuale pixel bianchi immagine con cluster filtrati: 47.8125
+
+Nome immagine: half_F4_IR000661.bmp Nome metodo: lanczos2
+Area della sogliatura: 50
+Componenti trovate senza sogliatura: 108
+Cluster ottenuti: 76
+Percentuale pixel bianchi immagine con cluster filtrati: 47.6771
+
+Nome immagine: half_F4_IR000661.bmp Nome metodo: lanczos3
+Area della sogliatura: 50
+Componenti trovate senza sogliatura: 119
+Cluster ottenuti: 76
+Percentuale pixel bianchi immagine con cluster filtrati: 47.7604
+
+Nome immagine: half_F4_IR000661.bmp_SK-w=20_r=2.bmp
+Area della sogliatura: 50
+Componenti trovate senza sogliatura: 95
+Cluster ottenuti: 64
+Percentuale pixel bianchi immagine con cluster filtrati: 44.0938
+
+Nome immagine: half_F5_IR000667.bmp Nome metodo: nearest
+Area della sogliatura: 50
+Componenti trovate senza sogliatura: 104
+Cluster ottenuti: 76
+Percentuale pixel bianchi immagine con cluster filtrati: 47.2435
+
+Nome immagine: half_F5_IR000667.bmp Nome metodo: bilinear
+Area della sogliatura: 50
+Componenti trovate senza sogliatura: 104
+Cluster ottenuti: 80
+Percentuale pixel bianchi immagine con cluster filtrati: 47.4701
+
+Nome immagine: half_F5_IR000667.bmp Nome metodo: bicubic
+Area della sogliatura: 50
+Componenti trovate senza sogliatura: 109
+Cluster ottenuti: 82
+Percentuale pixel bianchi immagine con cluster filtrati: 47.0664
+
+Nome immagine: half_F5_IR000667.bmp Nome metodo: lanczos2
+Area della sogliatura: 50
+Componenti trovate senza sogliatura: 111
+Cluster ottenuti: 85
+Percentuale pixel bianchi immagine con cluster filtrati: 46.9635
+
+Nome immagine: half_F5_IR000667.bmp Nome metodo: lanczos3
+Area della sogliatura: 50
+Componenti trovate senza sogliatura: 124
+Cluster ottenuti: 85
+Percentuale pixel bianchi immagine con cluster filtrati: 46.6016
+
+Nome immagine: half_F5_IR000667.bmp_SK-w=20_r=2.bmp
+Area della sogliatura: 50
+Componenti trovate senza sogliatura: 109
+Cluster ottenuti: 77
+Percentuale pixel bianchi immagine con cluster filtrati: 42.4128
+
+Nome immagine: half_F6_IR000676.bmp Nome metodo: nearest
+Area della sogliatura: 50
+Componenti trovate senza sogliatura: 100
+Cluster ottenuti: 65
+Percentuale pixel bianchi immagine con cluster filtrati: 51.9167
+
+Nome immagine: half_F6_IR000676.bmp Nome metodo: bilinear
+Area della sogliatura: 50
+Componenti trovate senza sogliatura: 90
+Cluster ottenuti: 66
+Percentuale pixel bianchi immagine con cluster filtrati: 50.3659
+
+Nome immagine: half_F6_IR000676.bmp Nome metodo: bicubic
+Area della sogliatura: 50
+Componenti trovate senza sogliatura: 107
+Cluster ottenuti: 76
+Percentuale pixel bianchi immagine con cluster filtrati: 48.3854
+
+Nome immagine: half_F6_IR000676.bmp Nome metodo: lanczos2
+Area della sogliatura: 50
+Componenti trovate senza sogliatura: 105
+Cluster ottenuti: 75
+Percentuale pixel bianchi immagine con cluster filtrati: 48.2799
+
+Nome immagine: half_F6_IR000676.bmp Nome metodo: lanczos3
+Area della sogliatura: 50
+Componenti trovate senza sogliatura: 109
+Cluster ottenuti: 76
+Percentuale pixel bianchi immagine con cluster filtrati: 49.5013
+
+Nome immagine: half_F6_IR000676.bmp_SK-w=20_r=2.bmp
+Area della sogliatura: 50
+Componenti trovate senza sogliatura: 94
+Cluster ottenuti: 66
+Percentuale pixel bianchi immagine con cluster filtrati: 45.9818
+

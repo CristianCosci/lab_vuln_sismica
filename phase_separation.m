@@ -1,22 +1,5 @@
-function result=phase_separation(img, inverted, half_yes, method_name)
-    %trasformo l'immagine in grayscale se non lo è
-    if (ndims(img)) > 2
-        img = rgb2gray(img);
-    end
-
-    if nargin < 2 || isempty(inverted)
-        inverted = false;
-    end
-
-    if nargin < 3 || isempty(half_yes)
-        half_yes = false;
-    end
-
-    if nargin < 3 || isempty(method_name)
-        method_name = 'nearest';
-    end
-
-    
+function result=phase_separation(img, inverted, half_yes, method_name, n_submatrix)
+    %scelta metodo
     if (half_yes) &&  not(isempty(method_name))
         if(strcmp(method_name, 'nearest'))
             img=imresize(img,2,'nearest');
@@ -38,9 +21,11 @@ function result=phase_separation(img, inverted, half_yes, method_name)
     %incremento contrasto immagine
     max_value=max(img(:));
     min_value=min(img(:));
+    min_value = double(min_value);
+    max_value = double(max_value);
     img = imadjust(img, [min_value/255 max_value/255], [0.0 1.0]);
 
-    img=not(adaptivethreshold(img,floor(size(img,1)/6), 0.0, 0));
+    img=not(adaptivethreshold(img,floor(size(img,1)/n_submatrix), 0.0, 0));
        
     %rimozione buchi
     [N, M] = size(img);
@@ -60,8 +45,7 @@ function result=phase_separation(img, inverted, half_yes, method_name)
         %erosione
         img=imerode(img, strel('square',3));
     end
-    
-    % imshow(img);
+
     result=img;
 
 end
